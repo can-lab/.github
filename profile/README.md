@@ -6,7 +6,7 @@
 
 <h3 align="left">${\textsf{\color{darkred}Cognitive Affective Neuroscience lab}}$</h3>
 
-<br>
+<sup>Donders Institute for Brain, Cognition and Behaviour, Radboud university medical center, Nijmegen, The Netherlands</sup>
 
 <h4 align="left">Contact:</h4>
 
