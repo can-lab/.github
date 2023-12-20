@@ -1,6 +1,6 @@
-<img align="right" alt="Coding" width="60" src="profile/media/donders_d.svg"> <img align="right" alt="Coding" width="320" src="profile/media/Combilogo_RUMC_RGB.png"> 
+<img align="right" alt="Coding" width="55" src="profile/media/donders_d.svg"> <img align="right" alt="Coding" width="300" src="profile/media/Combilogo_RUMC_RGB.png"> 
 
-<img align="left" alt="Coding" width="140" src="profile/media/canlab_logo_trim.png "> 
+<img align="left" alt="Coding" width="120" src="profile/media/canlab_logo_trim.png "> 
 
 <h1 align="left">CAN-LAB</h1>
 
