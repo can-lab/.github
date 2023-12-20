@@ -4,7 +4,7 @@
 
 <h1 align="left">CAN-LAB</h1>
 
-<h3 align="left">Cognitive Affective Neuroscience lab</h3>
+<h3 align="left">${\textsf{\color{darkred}Cognitive Affective Neuroscience lab}}$</h3>
 
 <br>
 
@@ -18,7 +18,7 @@
 
 ---
 
-<h3 align="left">Public Repositories</h3>
+<h3 align="left">${\textsf{\color{darkred}Public Repositories}}$</h3>
 
 <h4 align="left">Toolbox:</h4>
 
