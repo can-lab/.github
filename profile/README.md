@@ -22,7 +22,13 @@
 
 <h4 align="left">Toolbox:</h4>
 
-[`finish-the-job`](https://github.com/can-lab/finish-the-job)
-
+| Toolbox | Website |
+| :---- | :---- |
+| [`brainampconverter`]( "") | [`can-lab.github.io`]( "CANlab Website") |
+| [`FawN`]( "FSL analysis with NiPype") | [`ernohermans.com`]() |
+| [`finish-the-job`](https://github.com/can-lab/finish-the-job "Running common preprocessing steps after fMRIprep") | [`TraumaCtrl-website`]() |
+| [`hera`]( "") |
+| [`IndNet`]( "Defining subject-specific brain networks by individualizing templates") |
+| [`pseuDICOM`]( "Pseudonimize (f)MRI data in DICOM format") |
 
 <h3 align="left">WORKING IN PROGRESS ... ⏳</h3>
