@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="55" src="profile/media/donders_d.svg"> <img align="right" alt="Coding" width="300" src="profile/media/Combilogo_RUMC_RGB.png"> 
+<img align="right" alt="Coding" width="55" src="media/donders_d.svg"> <img align="right" alt="Coding" width="300" src="profile/media/Combilogo_RUMC_RGB.png"> 
 
 <img align="left" alt="Coding" width="120" src="profile/media/canlab_logo_trim.png "> 
 
