@@ -1,6 +1,6 @@
-<img align="right" alt="Coding" width="55" src="profile/media/donders_d.svg"> <img align="right" alt="Coding" width="300" src="profile/media/Combilogo_RUMC_RGB.png"> 
+<img align="right" alt="Coding" width="55" src="https://github.com/can-lab/.github-private/blob/main/media/donders_d.svg"> <img align="right" alt="Coding" width="300" src="https://github.com/can-lab/.github-private/blob/main/media/Combilogo_RUMC_RGB.png"> 
 
-<img align="left" alt="Coding" width="120" src="profile/media/canlab_logo_trim.png "> 
+<img align="left" alt="Coding" width="120" src="https://github.com/can-lab/.github-private/blob/main/media/canlab_logo_trim.png"> 
 
 <h1 align="left">CAN-LAB</h1>
 
@@ -10,11 +10,11 @@
 
 <h4 align="left">Contact:</h4>
 
-<a href="https://cognitiveaffectiveneurosciencelab.nl/index.html"><img src="profile/media/internet-svgrepo-com.svg" height="25" width="25"/></a> &nbsp; <a href="https://twitter.com/canlab_di"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="25" width="25"/></a> &nbsp; <a href="https://github.com/can-lab"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="27" width="27"/></a>
+<a href="https://cognitiveaffectiveneurosciencelab.nl/index.html"><img src="https://github.com/can-lab/.github-private/blob/main/media/internet-svgrepo-com.svg" height="25" width="25"/></a> &nbsp; <a href="https://twitter.com/canlab_di"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" height="25" width="25"/></a> &nbsp; <a href="https://github.com/can-lab"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="27" width="27"/></a>
 
 <h4 align="left">Top Languages:</h4>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" width="25"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="25" width="25"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="25" width="25"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" width="25"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="25" width="25"/> &nbsp; <img src="profile/media/scilab_104094.svg" height="25" width="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" width="25"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="25" width="25"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="25" width="25"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" width="25"/> &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="25" width="25"/> &nbsp; <img src="https://github.com/can-lab/.github-private/blob/main/media/scilab_104094.svg" height="25" width="25"/>
 
 ---
 
